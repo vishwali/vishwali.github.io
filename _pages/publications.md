@@ -14,17 +14,17 @@ title: Publications
 **Vishwali Mhasawade**, Anas Elghafari, Dustin T. Duncan, Rumi Chunara <br/>
 *International Journal of Environmental Research and Public Health, 2020* <br/>
 [ [Paper](https://www.mdpi.com/1660-4601/17/3/735)]
-+ **Fair predictors under Distribution Shift** <br\>
-Harvineet Singh, Rina Singh, **Vishwali Mhasawade**, Rumi Chunara <br\>
-*Fair Machine Learning in Health Workshop, NeurIPS, 2019* <br\>
++ **Fair predictors under Distribution Shift** <br/>
+Harvineet Singh, Rina Singh, **Vishwali Mhasawade**, Rumi Chunara <br/>
+*Fair Machine Learning in Health Workshop, NeurIPS, 2019* <br/>
 [[Paper](https://arxiv.org/pdf/1911.00677.pdf)]
-+ **Neural Networks an Quanitifier Conservativity: Does Data Distribution Affect Learnability?**<br\>
-**Vishwali Mhasawade**, Ildikó Emese Szabó, Melanie Tosik, Sheng-Fu Wang<br\>
-*Preprint, 2018*<br\>
++ **Neural Networks an Quanitifier Conservativity: Does Data Distribution Affect Learnability?**<br/>
+**Vishwali Mhasawade**, Ildikó Emese Szabó, Melanie Tosik, Sheng-Fu Wang<br/>
+*Preprint, 2018*<br/>
 [[Paper] (https://arxiv.org/pdf/1809.05733.pdf)] 
-+ **Explainable Musial Phrase Completion**<br\>
-Iddo Drori, Gregory W. Johnsen, Ling Lin, Lucia Yu, Andrew Dempsey, **Vishwali Mhasawade**, Daniel Jaroslawicz<br\>
-*Joint Workshop on Machine Learning for Music, ICML, 2018*<br\>
++ **Explainable Musial Phrase Completion**<br/>
+Iddo Drori, Gregory W. Johnsen, Ling Lin, Lucia Yu, Andrew Dempsey, **Vishwali Mhasawade**, Daniel Jaroslawicz<br/>
+*Joint Workshop on Machine Learning for Music, ICML, 2018*<br/>
 
 
 
