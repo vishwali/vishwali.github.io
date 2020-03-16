@@ -18,13 +18,13 @@ title: Publications
 Harvineet Singh, Rina Singh, **Vishwali Mhasawade**, Rumi Chunara <br\>
 *Fair Machine Learning in Health Workshop, NeurIPS, 2019* <br\>
 [[Paper](https://arxiv.org/pdf/1911.00677.pdf)]
-+ **Neural Networks an Quanitifier Conservativity: Does Data Distribution Affect Learnability?**
++ **Neural Networks an Quanitifier Conservativity: Does Data Distribution Affect Learnability?**<br\>
 **Vishwali Mhasawade**, Ildikó Emese Szabó, Melanie Tosik, Sheng-Fu Wang<br\>
 *Preprint, 2018*<br\>
 [[Paper] (https://arxiv.org/pdf/1809.05733.pdf)] 
-+ **Explainable Musial Phrase Completion**
-Iddo Drori, Gregory W. Johnsen, Ling Lin, Lucia Yu, Andrew Dempsey, **Vishwali Mhasawade**, Daniel Jaroslawicz
-*Joint Workshop on Machine Learning for Music, ICML, 2018*
++ **Explainable Musial Phrase Completion**<br\>
+Iddo Drori, Gregory W. Johnsen, Ling Lin, Lucia Yu, Andrew Dempsey, **Vishwali Mhasawade**, Daniel Jaroslawicz<br\>
+*Joint Workshop on Machine Learning for Music, ICML, 2018*<br\>
 
 
 
