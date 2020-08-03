@@ -73,7 +73,7 @@ collections:
 
 # Build settings
 markdown: kramdown
-highlighter: rogue
+highlighter:  Pygments 
 
 # Includes & excludes
 include: ['_pages']
