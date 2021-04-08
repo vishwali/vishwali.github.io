@@ -4,6 +4,10 @@ permalink: /publications/
 title: Publications
 
 ---
++ **Causal Multi-level Fairness** <br/>
+**Vishwali Mhasawade** and Rumi Chunara <br/>
+*AAAI/ACM Conference on Artifical Intelligence, Ethics, and Society (AIES), 2021* <br/>
+[ [Paper] (https://arxiv.org/abs/2010.07343)]
 + **Fairness Violations and Mitigation under Covariate Shift** <br/>
 Harvineet Singh, Rina Singh, **Vishwali Mhasawade**, Rumi Chunara <br/>
 *ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2021* <br/>
