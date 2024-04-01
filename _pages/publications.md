@@ -5,7 +5,7 @@ title: Publications
 
 ---
 + **Understanding Disparities in Post Hoc Machine Learning Explanation** <br/>
-**Vishwali Mhasawade**, Salman Rahman, Zoe Haskell-Craig Rumi Chunara <br/>
+**Vishwali Mhasawade**, Salman Rahman, Zoe Haskell-Craig, Rumi Chunara <br/>
 *ACM Conference on Fairness, Accountability and Transparency (ACM FAccT, 2024*<br/>
 [ [Paper](https://arxiv.org/abs/2401.14539)]
 
