@@ -6,12 +6,12 @@ title: Publications
 ---
 + **Understanding Disparities in Post Hoc Machine Learning Explanation** <br/>
 **Vishwali Mhasawade**, Salman Rahman, Zoe Haskell-Craig, Rumi Chunara <br/>
-*ACM Conference on Fairness, Accountability and Transparency (ACM FAccT, 2024*<br/>
+*ACM Conference on Fairness, Accountability and Transparency (ACM FAccT), 2024*<br/>
 [ [Paper](https://arxiv.org/abs/2401.14539)]
 
 + **A Causal Perspective on Label Bias** <br/>
 **Vishwali Mhasawade**, Alexander D'Amour,  Stephen Pfohl<br/>
-*ACM Conference on Fairness, Accountability and Transparency (ACM FAccT, 2024*<br/>
+*ACM Conference on Fairness, Accountability and Transparency (ACM FAccT), 2024*<br/>
 
 
 + **Generalizability Challenges of Mortality Risk Prediction Models: A retrospective Analysis on a Multi-center Database** <br/>
