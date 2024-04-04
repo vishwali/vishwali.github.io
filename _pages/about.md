@@ -11,8 +11,6 @@ profile:
 news: true
 social: true
 ---
-I’m on the academic and industry job market!
-Please reach out if you know of an opportunity that would fit my background.
 
 I am a final year Ph.D. student at [New York University](https://www.nyu.edu/), advised by [Prof. Rumi Chunara](https://engineering.nyu.edu/faculty/rumi-chunara). I am a member of [ChunaraLab](https://wp.nyu.edu/chunaralab/) and [ViDA](https://vida.engineering.nyu.edu/). I am broadly interested in developing fair probabilistic methods in causal inference and domain adaptation with specific applications in healthcare and public health. Overall my research aims to develop methods for advancing health equity while learning from multiple environments. My research is generously supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/).
 
